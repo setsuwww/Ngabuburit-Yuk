@@ -51,7 +51,7 @@ useHead({
 
       <p class="text-sm text-center text-zinc-400">
         Don't have an account?
-        <NuxtLink to="/auth/login" class="text-emerald-500 hover:underline">
+        <NuxtLink to="/auth/register" class="text-emerald-500 hover:underline">
           Register
         </NuxtLink>
       </p>
