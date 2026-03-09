@@ -46,7 +46,7 @@ useHead({
         type="submit"
         class="w-full py-2.5 rounded-md bg-emerald-500 hover:bg-emerald-600 text-white font-medium transition"
       >
-        Create Account
+        Login
       </button>
 
       <p class="text-sm text-center text-zinc-400">
